@@ -1,6 +1,3 @@
-# Clustering Wine DataSet
-This analysis applies K-means and Agglomerative Hierarchical Clustering to partition a dataset into groups. Standard Scaler yielded higher Adjusted Rand Index (ARI) scores, while Robust Scaler resulted in better silhouette scores. Scaling choice impacts clustering performance, depending on dataset characteristics and analysis requirements.
-Please read the project wiki [here](https://github.com/temmyfioye/ClusteringWineDataSet/wiki).
 # Introduction
 Welcome to the Clustering Wine DataSet wiki!
 The objective of this analysis is to apply clustering algorithms, namely K-means and Agglomerative Hierarchical Clustering (AHC), to partition the dataset into groups based on similarities. The dataset is available on Kaggle. It consists of six classes. 
